@@ -2,16 +2,16 @@
   {
     "firstName": "Ivan",
     "lastName": "Ivanov",
-    "age": "20"
+    "age": 20
   },
   {
     "firstName": "Petty",
     "lastName": "Petrov",
-    "age": "25"
+    "age": 25
   },
   {
     "firstName": "Vasil",
     "lastName": "Sidorov",
-    "age": "35"
+    "age": 35
   }
 ]
