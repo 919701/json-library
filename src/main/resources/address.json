@@ -1,0 +1,17 @@
+[
+  {
+    "city": "Mosckow",
+    "street": "Lenina",
+    "apartment": 18
+  },
+  {
+    "city": "Minsk",
+    "street": "Mira",
+    "apartment": 35
+  },
+  {
+    "city": "Vladivostok",
+    "street": "Komiterna",
+    "apartment": 85
+  }
+]

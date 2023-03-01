@@ -1,0 +1,38 @@
+[
+  {
+    "carMake": "Ford",
+    "carModel": "Mustang",
+    "releaseYear": 2009,
+    "color": "Goldenrod"
+  },
+  {
+    "carMake": "Mazda",
+    "carModel": "626",
+    "releaseYear": 1995,
+    "color": "Orange"
+  },
+  {
+    "carMake": "Pontiac",
+    "carModel": "Grand Prix",
+    "releaseYear": 1979,
+    "color": "Crimson"
+  },
+  {
+    "carMake": "Dodge",
+    "carModel": "Ram 3500",
+    "releaseYear": 1996,
+    "color": "Mauv"
+  },
+  {
+    "carMake": "Jaguar",
+    "carModel": "XK Series",
+    "releaseYear": 1999,
+    "color": "Goldenrod"
+  },
+  {
+    "carMake": "Mitsubishi",
+    "carModel": "Montero Sport",
+    "releaseYear": 1997,
+    "color": "Indigo"
+  }
+]
